@@ -4,63 +4,63 @@
     "description": "Extension name, night not need to translate it."
   },
   "description": {
-    "message": "Secure Hive Wallet Extension.",
+    "message": "Extensão Segura para Carteira Hive.",
     "description": "Extension description, as shown in the store."
   },
   "transaction_error": {
-    "message": "Transaction error",
-    "description": "Generic error during transaction"
+    "message": "Erro ao processar transação",
+    "description": "Erro genérico durante transação"
   },
   "memo": {
     "message": "memo",
-    "description": "type of key"
+    "description": "tipo de chave"
   },
   "posting": {
     "message": "posting",
-    "description": "type of key"
+    "description": "tipo de chave"
   },
   "active": {
     "message": "active",
-    "description": "type of key"
+    "description": "tipo de chave"
   },
   "unknown_error": {
-    "message": "Something went wrong! Please try again!",
-    "description": "Generic error"
+    "message": "Algo deu errado! Tente novamente!",
+    "description": "Erro genérico"
   },
   "wrong_password": {
-    "message": "Wrong password!",
+    "message": "Senha incorreta!",
     "description": "Wrong pwd upon unlocking"
   },
   "full_in": {
-    "message": "Full in $1",
+    "message": "Completo em $1",
     "description": "Full in x days x hours x minutes"
   },
   "days": {
-    "message": "days",
+    "message": "dias",
     "description": "Full in x days x hours x minutes"
   },
   "day": {
-    "message": "day",
+    "message": "dia",
     "description": "Full in x days x hours x minutes"
   },
   "hours": {
-    "message": "hours",
+    "message": "horas",
     "description": "Full in x days x hours x minutes"
   },
   "hour": {
-    "message": "hour",
+    "message": "hora",
     "description": "Full in x days x hours x minutes"
   },
   "minutes": {
-    "message": "minutes",
+    "message": "minutos",
     "description": "Full in x days x hours x minutes"
   },
   "minute": {
-    "message": "minute",
+    "message": "minuto",
     "description": "Full in x days x hours x minutes"
   },
   "popup_html_register": {
-    "message": "The ultimate <strong>HIVE</strong> wallet.<br/><br/>Manage HIVE assets, and connect to HIVE applications.<br/><br/>Simple. Lightweight. Secure.",
+    "message": "A carteira <strong>HIVE</strong> suprema.<br/><br/>Administre seus recursos HIVE e conecte-se a aplicativos HIVE.<br/><br/>Simples. Leve. Segura.",
     "description": "Text on registration page"
   },
   "popup_html_unlock": {
