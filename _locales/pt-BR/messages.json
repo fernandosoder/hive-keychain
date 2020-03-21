@@ -64,50 +64,50 @@
     "description": "Text on registration page"
   },
   "popup_html_unlock": {
-    "message": "The ultimate <strong>HIVE</strong> wallet.<br/><br/>Manage HIVE assets, and connect to HIVE applications.<br/><br/>Simple. Lightweight. Secure.",
+    "message": "A carteira <strong>HIVE</strong> suprema.<br/><br/>Administre seus recursos HIVE e conecte-se a aplicativos HIVE.<br/><br/>Simples. Leve. Segura.",
     "description": "Text on unlock page"
   },
   "popup_html_new_password": {
-    "message": "New Password",
+    "message": "Nova Senha",
     "description": "On settings, change password"
   },
   "popup_html_confirm": {
-    "message": "Confirm",
+    "message": "Confirmar",
     "description": "Generic button"
   },
   "popup_html_submit": {
-    "message": "Submit",
+    "message": "Enviar",
     "description": "Generic button"
   },
   "popup_html_password": {
-    "message": "Password",
+    "message": "Senha",
     "description": "Placeholder in input for password"
   },
   "popup_html_signin": {
-    "message": "Sign In"
+    "message": "Logar"
   },
   "popup_html_forgot": {
-    "message": "Forgot Password?",
+    "message": "Esqueceu a Senha?",
     "description": "On unlock page"
   },
   "popup_html_reset": {
-    "message": "Reset account",
+    "message": "Resetar conta",
     "description": "After clicking forgot password"
   },
   "popup_html_reset_desc": {
-    "message": "If you forgot your password, you can clear your data but will have to enter all your keys again.",
+    "message": "Se você esqueceu sua senha, você pode limpar seus dados mas terá que inserir todas as suas chaves novamente.",
     "description": "text after clicking forgot password"
   },
   "popup_html_vm": {
-    "message": "Voting Mana",
+    "message": "Recursos para Voto",
     "description": "on Keychain popup main page"
   },
   "popup_html_rc": {
-    "message": "Resource credits",
+    "message": "Créditos de Recursos(RC)",
     "description": "on Keychain popup main page"
   },
   "popup_html_send": {
-    "message": "Send $1",
+    "message": "Enviar $1",
     "description": "ex: Send HIVE"
   },
   "popup_html_pu": {
@@ -117,14 +117,14 @@
     "message": "Power Down"
   },
   "popup_html_delegate": {
-    "message": "Delegate"
+    "message": "Delegar"
   },
   "popup_html_estimation": {
-    "message": "Estimated Account Value",
+    "message": "Valor Estimado da Conta",
     "description": "on popup main page"
   },
   "popup_html_history": {
-    "message": "History",
+    "message": "Histórico",
     "description": "on popup main page"
   },
   "popup_html_tokens": {
@@ -132,19 +132,19 @@
     "description": "on popup main page"
   },
   "popup_html_witness": {
-    "message": "Witness",
+    "message": "Testemunhas",
     "description": "on popup main page"
   },
   "popup_html_estimation_info": {
-    "message": "account value",
+    "message": "valor da conta",
     "description": "on popup main page"
   },
   "popup_html_estimation_info_text": {
-    "message": "The estimated account value is a ballpark idea of what your funds are worth in USD.<br><br>            Please note that the value does not take into account pending market trades, transfers, or transactions.",
+    "message": "O valor estimado é uma ideia razoável do valor da soma de seus recursos em dólares norte-americanos.<br><br>            Repare que esse valor não considera transações pendentes no mercado, transferências e outras transações.",
     "description": "on popup main page, click info near estimated value"
   },
   "popup_html_wallet_history": {
-    "message": "Wallet History",
+    "message": "Histórico da Carteira",
     "description": "Upon clicking on History"
   },
   "popup_html_setup_text": {
